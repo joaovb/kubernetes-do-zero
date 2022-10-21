@@ -1,7 +1,7 @@
 # kubernetes-do-zero
 
 
-minikube start
-minikube stop
-kubectl
-kubectl get nodes
+minikube start<br>
+minikube stop<br>
+kubectl<br>
+kubectl get nodes<br>
